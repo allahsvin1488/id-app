@@ -27,5 +27,5 @@ function check(event) {
        alert("Answer incorrect or wrong level!");
    }
 
-  a  return false;
+  return false;
 }
