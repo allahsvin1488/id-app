@@ -1,6 +1,6 @@
 const levels = [
     { answer: 'plant', video: 'Eating A Square Watermelon.mp4' },
-    { answer: 'watermelon', video: '1MB_1080P_THETESTDATA.COM_mp4' },
+    { answer: 'watermelon', video: '1MB_1080P_THETESTDATA.COM_mp4.mp4' },
     { answer: 'planet', video: '' } 
 ];
 
