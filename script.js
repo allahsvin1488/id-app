@@ -1,6 +1,6 @@
 const levels = [
     { answer: 'plant', video: 'sample_holiday_trip.mp4' },
-    { answer: 'cube', video: 'planet.mp4' },
+    { answer: 'cube', video: '1MB_1080P_THETESTDATA.COM_mp4' },
     { answer: 'planet', video: '' } 
 ];
 
